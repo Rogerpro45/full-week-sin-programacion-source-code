@@ -1,2 +1,2 @@
-# full-week-sin-programacion-source-code
-full week sin programacion source code para su uso libre
+# full-week-sin-programacion
+full week sin programacion para uso libre
